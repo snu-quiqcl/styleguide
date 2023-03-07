@@ -1,5 +1,4 @@
-# styleguide
-A style guide for development projects in QuIQCL.
+# SNU QuIQCL Style Guides
 
 Sharing conventions among the codes in our group would be helpful to produce consistent and legible codes.
 Please follow this guide and actively use issues and discussions for asking, suggesting, etc.
