@@ -10,3 +10,5 @@ e.g., whether to use `'` or `"` for string literals.
 If there is anything ambiguous, see Google Style Guides.
 If it is not enough, please create an issue or a discussion.
 This style guide will become more complete and useful as we ask to and discuss with each other.
+
+- #### [Python Style Guide](https://github.com/snu-quiqcl/styleguide/blob/main/python.md)
